@@ -1,5 +1,27 @@
 # SecretSantaGame
 
+This problem is solved using Angular. 
+
+To run this application just clone this repo and run:
+
+```bash
+npm install
+```
+then
+
+```bash
+npm start
+```
+
+Once the application is up and running, click 'choose the file' button to upload the input excel file (Only excel file is accepted).
+
+The input file is required, Secret file is not required. Once the input file is chosen update button is enabled.
+
+Once the update button is clicked, download button is enabled. Enter a name to download the file.
+
+
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
 
 ## Development server
