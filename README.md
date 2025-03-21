@@ -1,5 +1,7 @@
 # SecretSantaGame
 
+**To use this application without cloning to your local pc use this link: https://secretsanta-rishi.netlify.app/**
+
 This problem is solved using Angular. 
 
 To run this application just clone this repo and run:
